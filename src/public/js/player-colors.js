@@ -1,14 +1,14 @@
 const HEX = {
-	MAGENTA: '#bb0077',
-	RED: '#e50000',
-	ORANGE: '#f28900',
-	YELLOW: '#ddbb00',
-	GREEN: '#77bb00',
-	TEAL: '#00aaaa',
-	BLUE: '#0044cc',
-	PURPLE: '#9900ee',
-	PINK: '#ee77ff',
-	BROWN: '#a56729',
+	MAGENTA: '#FF00D2',
+	RED: '#CA0069',
+	ORANGE: '#DC9F00',
+	YELLOW: '#FFE425',
+	GREEN: '#206F3A',
+	TEAL: '#81FFEA',
+	BLUE: '#8CD9FF',
+	PURPLE: '#790DB3',
+	PINK: '#B9B9B9',
+	BROWN: '#000000',
 };
 
 const ORDER = [
