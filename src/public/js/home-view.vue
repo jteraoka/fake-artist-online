@@ -18,12 +18,11 @@
 						>.
 					</p>
 					<p>
-						Contribute:
+						Credits:
 						<a href="https://github.com/kcgidw/fao">Github</a>
 					</p>
 					<p>
-						Enjoy the game? Send a tip:
-						<a href="https://ko-fi.com/krackocloud">Ko-fi</a>
+						&#128151; 7/14/22 Virtual Game Night &#128151;
 					</p>
 				</div>
 			</div>
