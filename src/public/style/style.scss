@@ -80,6 +80,16 @@ div.stripe-content {
 	text-align: right;
 }
 
+p.subtitle {
+	font-family: 'Catamaran', sans-serif;
+	font-weight: 900;
+	font-size: 28px;
+	color: var(--artist4);
+	@media screen and (max-width: 480px) {
+		font-size: 12px;
+	}
+}
+
 p,
 ul {
 	margin: 5px 5px 5px 5px;

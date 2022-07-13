@@ -4,7 +4,7 @@
 			<div id="title-banner" class="stripe align-center">
 				<div class="stripe-content">
 					<h1 class="title">Fake Artist Online</h1>
-					<p>
+					<p class="subtitle">
 						&#128151; 7/14/22 Virtual Game Night &#128151;
 					</p>
 				</div>
