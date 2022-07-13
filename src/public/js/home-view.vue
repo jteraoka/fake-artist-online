@@ -4,6 +4,9 @@
 			<div id="title-banner" class="stripe align-center">
 				<div class="stripe-content">
 					<h1 class="title">Fake Artist Online</h1>
+					<p>
+						&#128151; 7/14/22 Virtual Game Night &#128151;
+					</p>
 				</div>
 			</div>
 			<div class="stripe flex-center">
@@ -20,9 +23,6 @@
 					<p>
 						Credits:
 						<a href="https://github.com/kcgidw/fao">Github</a>
-					</p>
-					<p>
-						&#128151; 7/14/22 Virtual Game Night &#128151;
 					</p>
 				</div>
 			</div>
