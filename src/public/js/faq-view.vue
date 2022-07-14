@@ -9,9 +9,9 @@
 					<div class="align-left">
 						<div class="qa">
 							<h3>
-								I have some form of color blindness/color deficiency. Can I still play this game?
+								I have some form of color blindness. Can I still play this game?
 							</h3>
-							<p>I selected the in-game color palette with accessibility as a priority. My hope is that each color will be distinguishable from the others while drawing, but I apologize if that ends up not being the case.</p>
+							<p>I selected the in-game color palette with accessibility as a priority. My hope is that each color will be distinguishable from the others to everyone while drawing, but I apologize if that ends up not being the case.</p>
 						</div>
 						<div class="qa">
 							<h3>
