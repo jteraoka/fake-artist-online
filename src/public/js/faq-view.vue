@@ -15,13 +15,10 @@
 						</div>
 						<div class="qa">
 							<h3>My browser says my connection is not secure. Should I be concerned?</h3>
-							<p>
-								The reason you are getting this warning is because the site is currently hosted for free on Heroku without a paid SSL certificate.<br>
-								This warning is less "there's a big shark in the water with you, get out" and more "your windows are open, maybe don't walk around naked".<br>
-								As a general rule you should not enter sensitive information on a page with a "Not Secure" warning.<br>
-								Sensitive information includes credit card numbers, full names, date of birth, and addresses.<br>
-								Since we are not entering these things, a "Not secure" connection is safe for the purpose of playing the game.
-							</p>
+							<p>The reason you are getting this warning is because the site is currently hosted for free on Heroku without a paid SSL certificate.</p>
+							<p>This warning is less "there's a big shark in the water with you, get out" and more "your windows are open, maybe don't walk around naked".</p>
+							<p>As a general rule you should not enter sensitive information on a page with a "Not Secure" warning. Sensitive information includes credit card numbers, full names, date of birth, and addresses.</p>
+							<p>A "Not secure" connection is safe for the purpose of playing the game as long as you don't enter these</p>
 						</div>
 						<div class="qa">
 							<h3>Credits/Disclaimer</h3>
